@@ -47,11 +47,6 @@ CatSpeak Concept
   Looks up a localized resource of type System.Drawing.Bitmap.
 </summary>
 </member>
-<member name="P:CatSpeak_Concept.My.Resources.Resources.greenMSN1">
-<summary>
-  Looks up a localized resource of type System.Drawing.Bitmap.
-</summary>
-</member>
 <member name="P:CatSpeak_Concept.My.Resources.Resources.IRC">
 <summary>
   Looks up a localized resource of type System.Drawing.Bitmap.
@@ -77,17 +72,7 @@ CatSpeak Concept
   Looks up a localized resource of type System.Drawing.Bitmap.
 </summary>
 </member>
-<member name="P:CatSpeak_Concept.My.Resources.Resources.MSNpic1">
-<summary>
-  Looks up a localized resource of type System.Drawing.Bitmap.
-</summary>
-</member>
 <member name="P:CatSpeak_Concept.My.Resources.Resources.OrangeMSN">
-<summary>
-  Looks up a localized resource of type System.Drawing.Bitmap.
-</summary>
-</member>
-<member name="P:CatSpeak_Concept.My.Resources.Resources.OrangeMSN1">
 <summary>
   Looks up a localized resource of type System.Drawing.Bitmap.
 </summary>
