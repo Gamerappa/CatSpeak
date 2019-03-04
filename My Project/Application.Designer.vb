@@ -32,7 +32,7 @@ Namespace My
         
         <Global.System.Diagnostics.DebuggerStepThroughAttribute()>  _
         Protected Overrides Sub OnCreateMainForm()
-            Me.MainForm = Global.CatSpeak_Concept.Login
+            Me.MainForm = Global.CatSpeak.Login
         End Sub
     End Class
 End Namespace
