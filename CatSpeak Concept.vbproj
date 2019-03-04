@@ -174,5 +174,95 @@
   <ItemGroup>
     <None Include="Resources\Branding\banner 125x125.png" />
   </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\WLM 2009 stuff\autumn.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\WLM 2009 stuff\basketball.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\WLM 2009 stuff\beach.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\WLM 2009 stuff\bonsai.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\WLM 2009 stuff\boy.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\WLM 2009 stuff\buisness.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\WLM 2009 stuff\cat.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\WLM 2009 stuff\chef.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\WLM 2009 stuff\chess.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\WLM 2009 stuff\design.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\WLM 2009 stuff\doctor.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\WLM 2009 stuff\dog.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\WLM 2009 stuff\edgy.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\WLM 2009 stuff\fish.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\WLM 2009 stuff\flower.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\WLM 2009 stuff\girl.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\WLM 2009 stuff\golf.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\WLM 2009 stuff\guest.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\WLM 2009 stuff\guitar.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\WLM 2009 stuff\leave.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\WLM 2009 stuff\lights.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\WLM 2009 stuff\ripwiishop.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\WLM 2009 stuff\robot.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\WLM 2009 stuff\soccer.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\WLM 2009 stuff\sports.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\WLM 2009 stuff\spring.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\WLM 2009 stuff\star.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\WLM 2009 stuff\surfing.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\WLM 2009 stuff\tennis.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\WLM 2009 stuff\winter.gif" />
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
 </Project>
