@@ -147,5 +147,32 @@
   <ItemGroup>
     <None Include="Resources\greenMSN.png" />
   </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\AlessioIRC.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\blockhead.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\IRC.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\KirbyBrawl.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pikachu.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Branding\banner.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Branding\logo.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Branding\logo1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Branding\banner 125x125.png" />
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
 </Project>
