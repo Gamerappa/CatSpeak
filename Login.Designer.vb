@@ -103,7 +103,7 @@ Partial Class Login
         '
         'PictureBox2
         '
-        Me.PictureBox2.BackgroundImage = Global.CatSpeak_Concept.My.Resources.Resources.logo
+        Me.PictureBox2.BackgroundImage = Global.CatSpeak.My.Resources.Resources.logo
         Me.PictureBox2.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch
         Me.PictureBox2.Location = New System.Drawing.Point(119, 8)
         Me.PictureBox2.Name = "PictureBox2"
@@ -113,7 +113,7 @@ Partial Class Login
         '
         'PictureBox1
         '
-        Me.PictureBox1.BackgroundImage = Global.CatSpeak_Concept.My.Resources.Resources.MSNpic
+        Me.PictureBox1.BackgroundImage = Global.CatSpeak.My.Resources.Resources.MSNpic
         Me.PictureBox1.BackgroundImageLayout = System.Windows.Forms.ImageLayout.None
         Me.PictureBox1.Location = New System.Drawing.Point(12, 37)
         Me.PictureBox1.Name = "PictureBox1"
