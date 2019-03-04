@@ -92,7 +92,7 @@ Partial Class GamerappaChat
         Me.Controls.Add(Me.PictureBox2)
         Me.Controls.Add(Me.PictureBox1)
         Me.Name = "GamerappaChat"
-        Me.Text = "GamerappaChat"
+        Me.Text = "Discussion"
         CType(Me.PictureBox2, System.ComponentModel.ISupportInitialize).EndInit()
         CType(Me.PictureBox1, System.ComponentModel.ISupportInitialize).EndInit()
         Me.ResumeLayout(False)
