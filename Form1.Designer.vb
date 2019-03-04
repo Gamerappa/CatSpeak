@@ -30,13 +30,15 @@ Partial Class Form1
         Me.Label3 = New System.Windows.Forms.Label()
         Me.Label4 = New System.Windows.Forms.Label()
         Me.PictureBox1 = New System.Windows.Forms.PictureBox()
+        Me.PictureBox2 = New System.Windows.Forms.PictureBox()
         CType(Me.PictureBox1, System.ComponentModel.ISupportInitialize).BeginInit()
+        CType(Me.PictureBox2, System.ComponentModel.ISupportInitialize).BeginInit()
         Me.SuspendLayout()
         '
         'Button1
         '
         Me.Button1.Anchor = System.Windows.Forms.AnchorStyles.Right
-        Me.Button1.Location = New System.Drawing.Point(361, 99)
+        Me.Button1.Location = New System.Drawing.Point(398, 101)
         Me.Button1.Name = "Button1"
         Me.Button1.Size = New System.Drawing.Size(91, 22)
         Me.Button1.TabIndex = 1
@@ -49,32 +51,32 @@ Partial Class Form1
         Me.Label1.Font = New System.Drawing.Font("Segoe UI Semilight", 14.25!, System.Drawing.FontStyle.Italic, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.Label1.Location = New System.Drawing.Point(12, 9)
         Me.Label1.Name = "Label1"
-        Me.Label1.Size = New System.Drawing.Size(178, 25)
+        Me.Label1.Size = New System.Drawing.Size(98, 25)
         Me.Label1.TabIndex = 2
-        Me.Label1.Text = "Connect to CatSpeak"
+        Me.Label1.Text = "Connect to"
         '
         'TextBox1
         '
         Me.TextBox1.Anchor = System.Windows.Forms.AnchorStyles.Right
-        Me.TextBox1.Location = New System.Drawing.Point(200, 47)
+        Me.TextBox1.Location = New System.Drawing.Point(224, 49)
         Me.TextBox1.Name = "TextBox1"
-        Me.TextBox1.Size = New System.Drawing.Size(252, 20)
+        Me.TextBox1.Size = New System.Drawing.Size(265, 20)
         Me.TextBox1.TabIndex = 3
         '
         'TextBox2
         '
         Me.TextBox2.Anchor = System.Windows.Forms.AnchorStyles.Right
-        Me.TextBox2.Location = New System.Drawing.Point(200, 73)
+        Me.TextBox2.Location = New System.Drawing.Point(224, 75)
         Me.TextBox2.Name = "TextBox2"
         Me.TextBox2.PasswordChar = Global.Microsoft.VisualBasic.ChrW(42)
-        Me.TextBox2.Size = New System.Drawing.Size(252, 20)
+        Me.TextBox2.Size = New System.Drawing.Size(265, 20)
         Me.TextBox2.TabIndex = 4
         '
         'Label2
         '
         Me.Label2.Anchor = System.Windows.Forms.AnchorStyles.Right
         Me.Label2.AutoSize = True
-        Me.Label2.Location = New System.Drawing.Point(136, 50)
+        Me.Label2.Location = New System.Drawing.Point(162, 52)
         Me.Label2.Name = "Label2"
         Me.Label2.Size = New System.Drawing.Size(35, 13)
         Me.Label2.TabIndex = 5
@@ -84,7 +86,7 @@ Partial Class Form1
         '
         Me.Label3.Anchor = System.Windows.Forms.AnchorStyles.Right
         Me.Label3.AutoSize = True
-        Me.Label3.Location = New System.Drawing.Point(136, 76)
+        Me.Label3.Location = New System.Drawing.Point(162, 82)
         Me.Label3.Name = "Label3"
         Me.Label3.Size = New System.Drawing.Size(56, 13)
         Me.Label3.TabIndex = 6
@@ -109,12 +111,22 @@ Partial Class Form1
         Me.PictureBox1.TabIndex = 0
         Me.PictureBox1.TabStop = False
         '
+        'PictureBox2
+        '
+        Me.PictureBox2.BackgroundImage = Global.CatSpeak_Concept.My.Resources.Resources.banner
+        Me.PictureBox2.Location = New System.Drawing.Point(121, 8)
+        Me.PictureBox2.Name = "PictureBox2"
+        Me.PictureBox2.Size = New System.Drawing.Size(158, 29)
+        Me.PictureBox2.TabIndex = 8
+        Me.PictureBox2.TabStop = False
+        '
         'Form1
         '
         Me.AcceptButton = Me.Button1
         Me.AutoScaleDimensions = New System.Drawing.SizeF(6.0!, 13.0!)
         Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
-        Me.ClientSize = New System.Drawing.Size(464, 157)
+        Me.ClientSize = New System.Drawing.Size(510, 159)
+        Me.Controls.Add(Me.PictureBox2)
         Me.Controls.Add(Me.Label4)
         Me.Controls.Add(Me.Label3)
         Me.Controls.Add(Me.Label2)
@@ -130,6 +142,7 @@ Partial Class Form1
         Me.ShowIcon = False
         Me.Text = "Connect"
         CType(Me.PictureBox1, System.ComponentModel.ISupportInitialize).EndInit()
+        CType(Me.PictureBox2, System.ComponentModel.ISupportInitialize).EndInit()
         Me.ResumeLayout(False)
         Me.PerformLayout()
 
@@ -143,4 +156,5 @@ Partial Class Form1
     Friend WithEvents Label2 As Label
     Friend WithEvents Label3 As Label
     Friend WithEvents Label4 As Label
+    Friend WithEvents PictureBox2 As PictureBox
 End Class
