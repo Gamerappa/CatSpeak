@@ -3,7 +3,6 @@ C:\Users\chazp\source\repos\CatSpeaks\CatSpeak Concept\CatSpeak Concept\bin\Debu
 C:\Users\chazp\source\repos\CatSpeaks\CatSpeak Concept\CatSpeak Concept\bin\Debug\CatSpeak Concept.pdb
 C:\Users\chazp\source\repos\CatSpeaks\CatSpeak Concept\CatSpeak Concept\bin\Debug\CatSpeak Concept.xml
 C:\Users\chazp\source\repos\CatSpeaks\CatSpeak Concept\CatSpeak Concept\obj\Debug\CatSpeak Concept.vbprojAssemblyReference.cache
-C:\Users\chazp\source\repos\CatSpeaks\CatSpeak Concept\CatSpeak Concept\obj\Debug\CatSpeak_Concept.Form1.resources
 C:\Users\chazp\source\repos\CatSpeaks\CatSpeak Concept\CatSpeak Concept\obj\Debug\CatSpeak_Concept.Resources.resources
 C:\Users\chazp\source\repos\CatSpeaks\CatSpeak Concept\CatSpeak Concept\obj\Debug\CatSpeak Concept.vbproj.GenerateResource.cache
 C:\Users\chazp\source\repos\CatSpeaks\CatSpeak Concept\CatSpeak Concept\obj\Debug\CatSpeak Concept.vbproj.CoreCompileInputs.cache
@@ -11,4 +10,5 @@ C:\Users\chazp\source\repos\CatSpeaks\CatSpeak Concept\CatSpeak Concept\obj\Debu
 C:\Users\chazp\source\repos\CatSpeaks\CatSpeak Concept\CatSpeak Concept\obj\Debug\CatSpeak Concept.xml
 C:\Users\chazp\source\repos\CatSpeaks\CatSpeak Concept\CatSpeak Concept\obj\Debug\CatSpeak Concept.pdb
 C:\Users\chazp\source\repos\CatSpeaks\CatSpeak Concept\CatSpeak Concept\obj\Debug\CatSpeak_Concept.Contacts.resources
-C:\Users\chazp\source\repos\CatSpeaks\CatSpeak Concept\CatSpeak Concept\obj\Debug\CatSpeak_Concept.GamerappaChat.resources
+C:\Users\chazp\source\repos\CatSpeaks\CatSpeak Concept\CatSpeak Concept\obj\Debug\CatSpeak_Concept.Login.resources
+C:\Users\chazp\source\repos\CatSpeaks\CatSpeak Concept\CatSpeak Concept\obj\Debug\CatSpeak_Concept.Chat.resources
