@@ -108,9 +108,9 @@ Partial Class Contacts
         Me.Label5.Font = New System.Drawing.Font("Microsoft Sans Serif", 9.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.Label5.Location = New System.Drawing.Point(60, 35)
         Me.Label5.Name = "Label5"
-        Me.Label5.Size = New System.Drawing.Size(386, 15)
+        Me.Label5.Size = New System.Drawing.Size(128, 15)
         Me.Label5.TabIndex = 7
-        Me.Label5.Text = "When WLM2009 support will be released, I'll use the WLM 2009 beta!"
+        Me.Label5.Text = "Working on CatSpeak!"
         '
         'Label4
         '
@@ -128,9 +128,9 @@ Partial Class Contacts
         Me.Label6.Font = New System.Drawing.Font("Microsoft Sans Serif", 9.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.Label6.Location = New System.Drawing.Point(58, 81)
         Me.Label6.Name = "Label6"
-        Me.Label6.Size = New System.Drawing.Size(197, 15)
+        Me.Label6.Size = New System.Drawing.Size(254, 15)
         Me.Label6.TabIndex = 8
-        Me.Label6.Text = "Will be used to test GIF display pics"
+        Me.Label6.Text = "GIF status: doesn't work as of now. Big oof... :("
         '
         'Label7
         '
@@ -175,7 +175,7 @@ Partial Class Contacts
         '
         'PictureBox2
         '
-        Me.PictureBox2.BackgroundImage = Global.CatSpeak.My.Resources.Resources.greenMSN
+        Me.PictureBox2.BackgroundImage = Global.CatSpeak.My.Resources.Resources.guitar
         Me.PictureBox2.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch
         Me.PictureBox2.Location = New System.Drawing.Point(6, 19)
         Me.PictureBox2.Name = "PictureBox2"
