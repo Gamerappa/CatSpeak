@@ -40,7 +40,7 @@ Partial Class GamerappaChat
         Me.RichTextBox1.Size = New System.Drawing.Size(637, 390)
         Me.RichTextBox1.TabIndex = 10
         Me.RichTextBox1.Text = "You now are chatting with Gamerappa. Do not send any Personal Infomation, Passwor" &
-    "ds and Credit Card Numbers. If someone asks you. You're going to be scammed."
+    "ds or Credit Card Numbers. If someone asks you. You're going to be scammed."
         '
         'TextBox1
         '
